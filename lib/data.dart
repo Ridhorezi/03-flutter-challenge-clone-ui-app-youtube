@@ -11,10 +11,10 @@ class User {
 }
 
 const User currentUser = User(
-  username: 'Marcus Ng',
+  username: 'Ridho Suhaebi Arrowi',
   profileImageUrl:
-      'https://yt3.ggpht.com/ytc/AAUvwniE2k5PgFu9yr4sBVEs9jdpdILdMc7ruiPw59DpS0k=s88-c-k-c0x00ffffff-no-rj',
-  subscribers: '100K',
+      'https://iili.io/HOE4qxI.jpg',
+  subscribers: '1M',
 );
 
 class Video {
